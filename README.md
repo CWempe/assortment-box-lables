@@ -36,6 +36,7 @@ These lables give you some advantages compared to a sheet you put inside the lid
 
 ## tipps
 
+* do not use the top row of the outside template, because it will be difficult to see
 * use images/emijies/pictograms to find the righrt box at a glance
 * use colors to fast identify the correct compartments for LEDs and resistors (color code)
 * use QR-Codes
