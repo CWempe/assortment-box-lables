@@ -34,16 +34,27 @@ These lables give you some advantages compared to a sheet you put inside the lid
 * small components are more visible because of the white lables at the bottom inside the compatments
 * small components are easier to pick up by lifting the lable
 
-## tipps
+## tips
 
+* slightly cut the bottom corners of the outside lable, because the compartments are conical  
+  ![tip_cut_bottom_corners]
 * do not use the top row of the outside template, because it will be difficult to see
-* use images/emijies/pictograms to find the righrt box at a glance
-* use colors to fast identify the correct compartments for LEDs and resistors (color code)
+* use colored images/emojis/pictograms to your parts at a glance
+* add color codes to the lables of your resistor compartments
 * use QR-Codes
   * link to data sheets
   * link to the online shop to order more of the same component
 
+## more pictures
+
+![overview_stacked_angle]
+
+![overview_stacked_side]
+
 [overview_top_angle]: pictures/overview_top_angle.png
+[overview_stacked_angle]: pictures/overview_stacked_angle.png
+[overview_stacked_side]: pictures/overview_stacked_side.png
 [inside_compartment_top]: pictures/inside_compartment_top.png
 [outside_left_corner]: pictures/outside_left_corner.png
 [outside_right_corner]: pictures/outside_right_corner.png
+[tip_cut_bottom_corners]: pictures/tip_cut_bottom_corners.png
