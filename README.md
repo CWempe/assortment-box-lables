@@ -19,6 +19,12 @@ The outside lable lets you see whats inside the box from the side. That's useful
 These lables give you some advantages compared to a sheet you put inside the lid of the box.
 
 * the information is directly inside each compartment
-* interchanging compartments without printing new lables
+  * interchanging compartments without printing new lables
+  * see your components even when the lid is closed
 * small components are more visible because of the white lables at the bottom inside the compatments
 * small components are easier to pick up by lifting the lable
+
+## tipps
+
+* use images/emijies/pictograms to find the righrt box at a glance
+* use colors to fast identify the correct compartments for LEDs and resistors (color code)
